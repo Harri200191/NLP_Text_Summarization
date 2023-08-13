@@ -101,16 +101,11 @@
     "<extra_id_98>",
     "<extra_id_99>"
   ],
-  "batch_size": null,
-  "batched": true,
   "clean_up_tokenization_spaces": true,
   "eos_token": "</s>",
   "extra_ids": 100,
   "model_max_length": 512,
   "pad_token": "<pad>",
-  "padding": true,
-  "sp_model_kwargs": {},
   "tokenizer_class": "T5Tokenizer",
-  "truncation": true,
   "unk_token": "<unk>"
 }
